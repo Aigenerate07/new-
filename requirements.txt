@@ -1,2 +1,4 @@
 Groq
 streamlit
+phidata
+duckduckgo-search
